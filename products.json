@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nombre": "Attack on Titan Vol. 1",
+    "categoria": "Shonen",
+    "precio": 12.99,
+    "descripcion": "En un mundo asolado por titanes devoradores de hombres, la humanidad lucha por sobrevivir detrás de enormes murallas. Sigue a Eren Yeager y sus amigos mientras se unen a la Legión de Reconocimiento para luchar contra los titanes y desvelar los misterios de su mundo.",
+    "imagen": "Attack.png",
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Jujutsu Kaisen Vol. 1",
+    "categoria": "Shonen",
+    "precio": 11.50,
+    "descripcion": "Yuji Itadori, un estudiante de secundaria con una fuerza física extraordinaria, se traga un dedo maldito para salvar a sus amigos, convirtiéndose en el recipiente del poderoso demonio Sukuna. Ahora debe unirse a una organización secreta de hechiceros Jujutsu para encontrar y consumir todos los dedos de Sukuna y exorcizar maldiciones.",
+    "imagen": "Jujutsu Kaisen.png",
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Berserk Deluxe Vol. 1",
+    "categoria": "Seinen",
+    "precio": 49.99,
+    "descripcion": "La épica y oscura fantasía de Guts, el Espadachín Negro. En un brutal mundo medieval lleno de demonios, mercenarios y nobles corruptos, Guts busca venganza contra Griffith, su antiguo líder y amigo. Esta edición de lujo recopila los primeros volúmenes con tapa dura.",
+    "imagen": "berserk.png",
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "nombre": "Spy x Family Vol. 1",
+    "categoria": "Comedy",
+    "precio": 9.99,
+    "descripcion": "El maestro espía 'Twilight' debe llevar a cabo una misión ultrasecreta: formar una familia falsa para infiltrarse en una prestigiosa escuela. Lo que no sabe es que la esposa que elige es una asesina letal y la hija que adopta es una telépata. ¡Una comedia de acción llena de malentendidos y encanto!",
+    "imagen": "Spy x family.png",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "nombre": "Chainsaw Man Vol. 1",
+    "categoria": "Shonen",
+    "precio": 10.99,
+    "descripcion": "Denji es un joven pobre que trabaja como cazador de demonios para la yakuza para pagar las deudas de su padre. Después de ser traicionado y asesinado, se fusiona con su perro demonio Pochita, convirtiéndose en Chainsaw Man, un híbrido humano-demonio con motosierras en lugar de brazos y cabeza.",
+    "imagen": "Chainsawman.png",
+    "stock": 18
+  },
+  {
+    "id": 6,
+    "nombre": "Vinland Saga Vol. 1",
+    "categoria": "Seinen",
+    "precio": 19.99,
+    "descripcion": "Ambientada en la Inglaterra del siglo XI, esta saga vikinga sigue a Thorfinn, un joven guerrero islandés que busca vengar la muerte de su padre. Se une a la banda de mercenarios de Askeladd, el hombre que mató a su padre, con la esperanza de tener la oportunidad de un duelo justo.",
+    "imagen": "Vinland.png",
+    "stock": 12
+  },
+
+  {
+  "id": 7,
+  "nombre": "   Bleach Vol. 1",
+  "categoria": "Shonen",
+  "precio": 17.99,
+  "descripcion": "Ichigo Kurosaki es un adolescente que puede ver fantasmas. Su vida cambia cuando conoce a Rukia Kuchiki, una Shinigami (diosa de la muerte), quien le transfiere sus poderes para que pueda proteger a su familia de los Hollows, espíritus malignos que devoran almas.",
+  "imagen": "Bleach vol 1.png",
+  "stock": 15
+},
+{
+  "id": 8,
+  "nombre": "Death Note Vol. 1",
+  "categoria": "Shonen",
+  "precio": 18.50,
+  "descripcion": "Light Yagami, un brillante estudiante, encuentra un cuaderno sobrenatural llamado Death Note, capaz de matar a cualquier persona cuyo nombre sea escrito en él. Decide usarlo para eliminar a criminales y crear un mundo perfecto, pero el detective L intentará detenerlo.",
+  "imagen": "Death note.png",
+  "stock": 10
+}
+
+
+]
