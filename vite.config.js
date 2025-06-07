@@ -1,12 +1,19 @@
-import { defineConfig } from 'vite';
-import vue from '@vitejs/plugin-vue';
-import path from 'path';
+import { defineConfig } from 'vite'
+import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  resolve: {
-    alias: {
-      '@': path.resolve(__dirname, './src'), // esta sirve para poder usar el @ para direcciones
-    },
-  },
-});
+  base: '/Tienda-Manga/',
+  build: {
+    outDir: 'docs',
+    assetsDir: 'assets',
+    manifest: true,
+    rollupOptions: {
+      output: {
+        assetFileNames: 'assets/[name]-[hash][extname]',
+        entryFileNames: 'assets/[name]-[hash].js',
+        chunkFileNames: 'assets/[name]-[hash].js'
+      }
+    }
+  }
+})

@@ -1,0 +1,78 @@
+{
+  "index.html": {
+    "file": "assets/index-Cm9SMFE_.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-C9pLoQYu.css"
+    ],
+    "assets": [
+      "assets/Num4-D-d8PYz6.png",
+      "assets/num1-DbCYemeJ.png",
+      "assets/num2-BoYmONW1.png",
+      "assets/num3-DY3AHAl0.png",
+      "assets/placeholder-C-SI09bF.png",
+      "assets/Attack-B5gjdGYk.png",
+      "assets/Bleach vol 1-DVMcnfSf.png",
+      "assets/Chainsawman-D2xPZT9N.png",
+      "assets/Death note-pH5GRFgI.png",
+      "assets/Jujutsu Kaisen-B3aQTiPG.png",
+      "assets/Spy x family-CTCZuMre.png",
+      "assets/Vinland-BWvEtIyw.png",
+      "assets/berserk-mosYK2GX.png"
+    ]
+  },
+  "src/assets/images/placeholder.png": {
+    "file": "assets/placeholder-C-SI09bF.png",
+    "src": "src/assets/images/placeholder.png"
+  },
+  "src/assets/images/products/Attack.png": {
+    "file": "assets/Attack-B5gjdGYk.png",
+    "src": "src/assets/images/products/Attack.png"
+  },
+  "src/assets/images/products/Bleach vol 1.png": {
+    "file": "assets/Bleach vol 1-DVMcnfSf.png",
+    "src": "src/assets/images/products/Bleach vol 1.png"
+  },
+  "src/assets/images/products/Chainsawman.png": {
+    "file": "assets/Chainsawman-D2xPZT9N.png",
+    "src": "src/assets/images/products/Chainsawman.png"
+  },
+  "src/assets/images/products/Death note.png": {
+    "file": "assets/Death note-pH5GRFgI.png",
+    "src": "src/assets/images/products/Death note.png"
+  },
+  "src/assets/images/products/Jujutsu Kaisen.png": {
+    "file": "assets/Jujutsu Kaisen-B3aQTiPG.png",
+    "src": "src/assets/images/products/Jujutsu Kaisen.png"
+  },
+  "src/assets/images/products/Spy x family.png": {
+    "file": "assets/Spy x family-CTCZuMre.png",
+    "src": "src/assets/images/products/Spy x family.png"
+  },
+  "src/assets/images/products/Vinland.png": {
+    "file": "assets/Vinland-BWvEtIyw.png",
+    "src": "src/assets/images/products/Vinland.png"
+  },
+  "src/assets/images/products/berserk.png": {
+    "file": "assets/berserk-mosYK2GX.png",
+    "src": "src/assets/images/products/berserk.png"
+  },
+  "src/assets/images/slider/Num4.png": {
+    "file": "assets/Num4-D-d8PYz6.png",
+    "src": "src/assets/images/slider/Num4.png"
+  },
+  "src/assets/images/slider/num1.png": {
+    "file": "assets/num1-DbCYemeJ.png",
+    "src": "src/assets/images/slider/num1.png"
+  },
+  "src/assets/images/slider/num2.png": {
+    "file": "assets/num2-BoYmONW1.png",
+    "src": "src/assets/images/slider/num2.png"
+  },
+  "src/assets/images/slider/num3.png": {
+    "file": "assets/num3-DY3AHAl0.png",
+    "src": "src/assets/images/slider/num3.png"
+  }
+}
